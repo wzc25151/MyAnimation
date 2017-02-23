@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="color1">#FF4081</color>
+    <color name="color2">#884081</color>
+    <color name="color3">#554081</color>
+    <color name="color4">#5540FF</color>
+    <color name="color5">#338881</color>
+    <color name="color6">#2288FF</color>
+
+    <array name="splash_circle_colors">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+    </array>
+</resources>
